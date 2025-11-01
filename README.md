@@ -66,4 +66,4 @@ Senaiflix-website/
 └─ README.md
 ```
 
-https://devsrenata.github.io/Senaiflix-website/
+Link do projeto https://devsrenata.github.io/Senaiflix-website/
